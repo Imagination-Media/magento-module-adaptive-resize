@@ -2,7 +2,7 @@
     "name": "trive/module-adaptive-resize",
     "description": "Resize image with crop functionality fot Magento 2 extension",
     "type": "magento2-module",
-    "version": "1.0.0.1",
+    "version": "1.0.1",
     "license": ["Commercial"],
     "require": {
         "php": "^7.3 || ^8.0"
